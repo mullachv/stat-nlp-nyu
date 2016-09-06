@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Vikram
+   last: Mullachery
+email: mv333@nyu.edu
+leaderboard: mullachv 
