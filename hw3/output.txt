@@ -1306,7 +1306,7 @@ given	VBN
 up	RP
 ,	,
 but	CC
-Meiring	IN
+Meiring	RB
 ca	MD
 n't	RB
 .	.
@@ -2235,8 +2235,8 @@ Church	NNP
 .	.
 
 Tangipahoa	NNP
-Parish	JJ
-sheriff	NN
+Parish	NNP
+sheriff	NNP
 's	POS
 deputy	JJ
 Christopher	NNP
@@ -2718,7 +2718,7 @@ Follow	VB
 The	DT
 Easy	JJ
 Instructions	NNS
-Provided	VBN
+Provided	VBD
 To	IN
 You	PRP
 .	.
@@ -2971,7 +2971,7 @@ Amnesty	JJ
 chief	JJ
 spokesman	NN
 Mike	NNP
-Blakemore	NNP
+Blakemore	NN
 said	VBD
 :	:
 "	``
@@ -3355,7 +3355,7 @@ beneath	IN
 the	DT
 media	NNS
 's	POS
-frothing	NN
+frothing	VBG
 triviality	NN
 .	.
 
@@ -3480,7 +3480,7 @@ symbol	NN
 .	.
 
 An	DT
-altar	NNP
+altar	NN
 cloth	NN
 was	VBD
 draped	VBN
@@ -3888,9 +3888,9 @@ the	DT
 Fundamentalist	NN
 Latter	IN
 Day	NNP
-Saints	NNS
+Saints	NNP
 (	(
-FLDS	NNS
+FLDS	NNP
 )	)
 separated	VBN
 itself	PRP
@@ -4058,7 +4058,7 @@ sect	NN
 began	VBD
 to	TO
 use	VB
-secluded	VBN
+secluded	JJ
 compounds	NNS
 ,	,
 state	NN
@@ -4671,7 +4671,7 @@ Also	RB
 look	VB
 up	RP
 the	DT
-kingston	NNP
+kingston	NN
 family	NN
 .	.
 
@@ -5030,7 +5030,7 @@ to	IN
 Jordan	NNP
 and	CC
 then	RB
-smuggled	VBD
+smuggled	VBN
 to	IN
 various	JJ
 countries	NNS
@@ -5224,8 +5224,8 @@ the	DT
 children	NNS
 were	VBD
 sent	VBN
-to	IN
-Mujahedeen	IN
+to	TO
+Mujahedeen	VB
 schools	NNS
 ,	,
 particularly	RB
@@ -5461,7 +5461,7 @@ more	RBR
 ,	,
 as	IN
 metal	NN
-evolves	VBZ
+evolves	NNS
 into	IN
 a	DT
 huge	JJ
@@ -5643,7 +5643,7 @@ What	WP
 about	IN
 Manson	NNP
 's	POS
-tees	NNS
+tees	VBZ
 bearing	VBG
 the	DT
 message	NN
@@ -5658,7 +5658,7 @@ parents	NNS
 And	CC
 were	VBD
 the	DT
-Columbine	JJ
+Columbine	NN
 killers	NNS
 acting	VBG
 out	RP
@@ -5771,7 +5771,7 @@ in	IN
 regard	NN
 to	IN
 the	DT
-Columbine	JJ
+Columbine	NN
 killers	NNS
 .	.
 
@@ -5806,9 +5806,9 @@ percentage	NN
 of	IN
 the	DT
 '	``
-Church	NN
+Church	NNP
 -	HYPH
-Morality	NN
+Morality	NNP
 '	POS
 crowd	NN
 ,	,
@@ -6566,7 +6566,7 @@ Nazareth	JJR
 I	PRP
 know	VBP
 ,	,
-ignorant	NN
+ignorant	JJ
 question	NN
 )	)
 Then	RB
@@ -7005,7 +7005,7 @@ the	DT
 '	``
 imaginary	JJ
 '	''
-Whore	IN
+Whore	NN
 of	IN
 Babalon	,
 and	CC
@@ -7053,7 +7053,7 @@ into	IN
 play	NN
 .	.
 
-Confused	RB
+Confused	JJ
 ?	.
 
 Good	JJ
@@ -7559,7 +7559,7 @@ Blood	NNP
 
 Important	JJ
 Kos	NNS
-Diary	NN
+Diary	JJ
 about	IN
 bush	NNP
 's	POS
@@ -7743,7 +7743,7 @@ today	NN
 but	CC
 sign	VB
 me	PRP
-TroubleFunk	NN
+TroubleFunk	VB
 .	.
 
 Tronicus	NN
@@ -7793,8 +7793,8 @@ of	IN
 Crowleyan	DT
 Thelema	NN
 a	DT
-failed	VBN
-alchemical	NN
+failed	JJ
+alchemical	JJ
 process	NN
 ?	.
 
@@ -7808,7 +7808,7 @@ be	VB
 a	DT
 process	NN
 of	IN
-alchemical	NN
+alchemical	JJ
 appropriation	NN
 ?	.
 
@@ -8063,8 +8063,8 @@ It	PRP
 boggles	VBZ
 the	DT
 mind	NN
-that	IN
-ANYONE	CD
+that	WDT
+ANYONE	NNP
 can	MD
 take	VB
 at	IN
@@ -8187,7 +8187,7 @@ Sub-cultures	PRP
 (	(
 as	IN
 the	DT
-lable	JJ
+lable	NN
 implies	VBZ
 )	)
 do	VBP
@@ -8278,8 +8278,8 @@ for	IN
 people	NNS
 who	WP
 adhear	VBP
-to	IN
-non-violence	NN
+to	TO
+non-violence	VB
 ,	,
 forgiveness	NN
 ,	,
@@ -8628,7 +8628,7 @@ the	DT
 wall	NN
 in	IN
 the	DT
-Oval	NN
+Oval	JJ
 Office	NN
 that	WDT
 shows	VBZ
@@ -9735,7 +9735,7 @@ GoogleOS	NNP
 
 What	WP
 if	IN
-Google	NNS
+Google	RB
 expanded	VBN
 on	IN
 its	PRP$
@@ -9856,7 +9856,7 @@ These	DT
 are	VBP
 1	CD
 )	)
-Assassinate	RB
+Assassinate	NN
 or	CC
 overthrow	VB
 Gen.	NNP
@@ -11102,7 +11102,7 @@ the	DT
 manhunt	NN
 for	IN
 high	JJ
-Baath	NN
+Baath	IN
 officials	NNS
 in	IN
 the	DT
@@ -11710,8 +11710,8 @@ Monthly	JJ
 Who	WP
 's	VBZ
 Who	WP
-of	IN
-Neocons	NNS
+of	RB
+Neocons	VBZ
 in	IN
 Iraq	NNP
 helps	VBZ
@@ -11869,10 +11869,10 @@ classical	JJ
 logical	JJ
 fallacy	NN
 ,	,
-post	NN
+post	AFX
 hoc	FW
-ergo	JJ
-propter	NN
+ergo	IN
+propter	JJ
 hoc	FW
 (	(
 Z	NNP
@@ -12050,7 +12050,7 @@ Hezbollah	HYPH
 Last	JJ
 month	NN
 ,	,
-Nasrallah	NN
+Nasrallah	NNP
 announced	VBD
 that	IN
 his	PRP$
@@ -12480,7 +12480,7 @@ Syrian	JJ
 territory	NN
 that	IN
 Israel	NNP
-annexed	VBN
+annexed	VBD
 after	IN
 the	DT
 1967	CD
@@ -13058,8 +13058,8 @@ Saddam	NNP
 Hussein	NNP
 's	POS
 dictatorship	NN
-ensured	VBN
-that	IN
+ensured	VBD
+that	DT
 such	JJ
 populist	JJ
 currents	NNS
@@ -14919,7 +14919,7 @@ after	IN
 Bin	IN
 Laden	NN
 in	IN
-Qandahar	NNP
+Qandahar	NN
 ,	,
 based	VBN
 from	IN
@@ -16059,9 +16059,9 @@ Ms.	NNP
 BABA	NNP
 GROOM	NNP
 (	(
-Former	JJ
-Campaign	NN
-Worker	NN
+Former	NNP
+Campaign	NNP
+Worker	NNP
 )	)
 :	:
 
@@ -16138,7 +16138,7 @@ construction	NN
 business	NN
 .	.
 
-Prominent	JJ
+Prominent	NNP
 Southern	NNP
 Republicans	NNPS
 were	VBD
@@ -17502,7 +17502,7 @@ Saudi	JJ
 Zarqawi	NNP
 is	VBZ
 a	DT
-Jordanian	JJ
+Jordanian	NN
 ,	,
 and	CC
 his	PRP$
@@ -17744,8 +17744,8 @@ morphed	VBD
 into	IN
 the	DT
 Moroccan	,
-Islamic	JJ
-Combatant	JJ
+Islamic	NNP
+Combatant	NNP
 Group	NNP
 ,	,
 had	VBD
@@ -18742,7 +18742,7 @@ that	DT
 look	NN
 to	TO
 bin	VB
-Laden	IN
+Laden	VBN
 for	IN
 their	PRP$
 cues	NNS
@@ -19137,7 +19137,7 @@ on	IN
 the	DT
 lookout	NN
 for	IN
-Baathist	NN
+Baathist	JJ
 saboteurs	NNS
 and	CC
 willingly	RB
@@ -20181,7 +20181,7 @@ Ukraine	NNP
 -	:
 in	IN
 the	DT
-post-accident	NN
+post-accident	JJ
 period	NN
 is	VBZ
 characterized	VBN
@@ -20310,8 +20310,8 @@ Chernobyl	NNP
 
 IAEA	NNP
 Report	NNP
-Lessons	NNS
-learned	VBD
+Lessons	VBZ
+learned	VBN
 
 http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html	TO
 
@@ -20439,7 +20439,7 @@ Remember	VB
 the	DT
 old	JJ
 shoe	NN
-sizing	VBG
+sizing	IN
 machines	NNS
 that	WDT
 was	VBD
@@ -20642,9 +20642,9 @@ has	VBZ
 been	VBN
 random	JJ
 speculation	NN
-about	RB
-Google	IN
-developiong	VBG
+about	IN
+Google	NN
+developiong	IN
 a	DT
 new	JJ
 browser	NN
@@ -20658,8 +20658,8 @@ Firefox	NN
 It	PRP
 is	VBZ
 true	JJ
-that	IN
-Google	NNP
+that	WDT
+Google	NN
 has	VBZ
 been	VBN
 in	IN
@@ -20670,9 +20670,9 @@ mode	NN
 They	PRP
 have	VBP
 acquired	VBN
-Urchin	RP
+Urchin	IN
 ,	,
-Zipdash	NN
+Zipdash	NNP
 ,	,
 Applied	NNP
 Semantics	NNP
@@ -21010,7 +21010,7 @@ has	VBZ
 been	VBN
 confirmed	VBN
 by	IN
-Google	NNS
+Google	NN
 at	IN
 the	DT
 present	JJ
@@ -21073,7 +21073,7 @@ not	RB
 already	RB
 seen	VBN
 the	DT
-Flash	NN
+Flash	JJ
 movie	NN
 Epic	NN
 ,	,
@@ -21225,9 +21225,9 @@ of	IN
 the	DT
 most	RBS
 popular	JJ
-non-Microsoft	JJ
-browser	NN
-out	RP
+non-Microsoft	NN
+browser	IN
+out	NN
 there	RB
 -	:
 by	IN
