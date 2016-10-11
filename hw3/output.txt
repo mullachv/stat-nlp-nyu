@@ -2660,8 +2660,8 @@ You	PRP
 ?	.
 
 You	PRP
-CAN	NNP
-Do	VBP
+CAN	CC
+Do	VB
 It	PRP
 .	.
 
@@ -2698,9 +2698,9 @@ The	DT
 Only	JJ
 Catch	NN
 Is	VBZ
-That	IN
+That	DT
 You	PRP
-HAVE	NNP
+HAVE	VBP
 To	TO
 Have	VB
 An	DT
@@ -2712,7 +2712,7 @@ $	$
 And	CC
 ......	NNP
 You	PRP
-HAVE	NNP
+HAVE	VBP
 To	TO
 Follow	VB
 The	DT
